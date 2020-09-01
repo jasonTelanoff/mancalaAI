@@ -1,1 +1,1 @@
-# mancalaAI
+# Mancala AI
